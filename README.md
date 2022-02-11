@@ -1,22 +1,22 @@
 # DevOps
 # Base needed
-Linux Fundamentals 
-∙ Booting process 
-∙ Service start|stop 
-∙ FileSystem Management 
-∙ NFS 
-∙ Granting root privileges 
-∙ Pipes and Redirections 
-∙ Stream Redirection 
-∙ Cron Jobs 
-∙ Networking Tools 
-∙ Utility Commands 
-∙ Linux Help 
-∙ User Management 
-∙ Process Management 
-∙ Process Management 
-∙ Package Management 
-∙ Scripting 
+- ## Linux Fundamentals 
+	- [ ] Booting process 
+	- [ ] Service start|stop 
+	- [ ] FileSystem Management 
+	- [ ] NFS 
+	- [ ] Granting root privileges 
+	- [ ] Pipes and Redirections 
+	- [ ] Stream Redirection 
+	- [ ] Cron Jobs 
+	- [ ] Networking Tools 
+	- [ ] Utility Commands 
+	- [ ] Linux Help 
+	- [ ] User Management 
+	- [ ] Process Management 
+	- [ ] Process Management 
+	- [ ] Package Management 
+	- [ ] Scripting 
 
 
 # Linux
